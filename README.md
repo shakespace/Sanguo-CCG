@@ -17,7 +17,6 @@ Project Log
 -----------
 
 
-
 ### Update 2011/07/19
 
 * Create GitHub Repository
@@ -29,10 +28,7 @@ Project Log
 Studio Members
 --------------
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 40f5fb93e1a016cb61a247d6b6c1ffd7bd8bdd5c
 * Philip Xu
 * Eric Gan
 * Porter Wang
