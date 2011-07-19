@@ -29,10 +29,10 @@ Project Log
 Studio Members
 --------------
 
-Philip Xu
-Eric Gan
-Porter Wang
-Elena Liu
-Jolin Zhang
+* Philip Xu
+* Eric Gan
+* Porter Wang
+* Elena Liu
+* Jolin Zhang
 
 
