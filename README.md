@@ -30,7 +30,7 @@ Studio Members
 
 
 * Philip Xu
-* Hello Eric Gan, how are you today!
+* Hello Eric Gan, how are you today?
 * Porter Wang
 * Elena Liu
 * Jolin Zhang
