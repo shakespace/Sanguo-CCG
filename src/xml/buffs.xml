@@ -1,0 +1,45 @@
+﻿<buffs version="0.0.1">
+
+  <buff id="1" 
+    name="士气上升" 
+	desc="Increase attack by %x, last %r rounds."
+	icon=""
+	anim=""
+    />
+
+  <buff id="2" 
+    name="士气下降" 
+	desc="Decrease attack by %x, last %r rounds."
+	icon=""
+	anim=""
+    />
+
+  <buff id="3" 
+    name="中毒" 
+	desc="Reduce life by %x, last %r rounds."
+	icon=""
+	anim=""
+    />
+
+  <buff id="4" 
+    name="恢复" 
+	desc="Heal life by %x, last %r rounds."
+	icon=""
+	anim=""
+    />
+
+  <buff id="5" 
+    name="混乱" 
+	desc="Cannot use active skill or attack, last %r rounds."
+	icon=""
+	anim=""
+    />
+
+  <buff id="6" 
+    name="坚守" 
+	desc="Immune to disorder, last %r rounds."
+	icon=""
+	anim=""
+    />
+
+</buffs>

@@ -1,0 +1,67 @@
+﻿<skills version="0.0.1">
+
+  <skill id="1" 
+    name="鼓舞" 
+	desc="Increase attack by %x, last %n rounds."
+	type="active"
+	icon=""
+	anim=""
+    />
+
+  <skill id="2" 
+    name="辱骂" 
+	desc="Decrease attack by %x, last %n rounds."
+	type="active"
+	icon=""
+	anim=""
+    />
+
+  <skill id="3" 
+    name="护甲" 
+	desc="Reduce attack damage by %x."
+	type="defense"
+	icon=""
+	anim=""
+    />
+
+  <skill id="4" 
+    name="破甲" 
+	desc="Ignore armor by %x."
+	type="attack"
+	icon=""
+	anim=""
+    />
+
+  <skill id="5" 
+    name="冲阵" 
+	desc="Target has chance to get disorder, last %r rounds."
+	type="attack"
+	icon=""
+	anim=""
+    />
+
+  <skill id="6" 
+    name="困敌" 
+	desc="Cannot attack, last %r rounds."
+	type="active"
+	icon=""
+	anim=""
+    />
+
+  <skill id="7" 
+    name="沉稳" 
+	desc="Immune to move imparing buffs."
+	type="passive"
+	icon=""
+	anim=""
+    />
+
+  <skill id="8" 
+    name="识破" 
+	desc="Remove move imparing buffs."
+	type="active"
+	icon=""
+	anim=""
+    />
+
+</buffs>
