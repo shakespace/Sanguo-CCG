@@ -1,0 +1,12 @@
+<missions version="0.0.1">
+
+  <mission id="1" prereq="0" coin="10" exp="10" win="defeat" lose="lose,50">
+    <deck commander="1" size="5">
+	  <group id="1" select="5">
+	    <card id="2" multi="5" />
+	  </group>
+	</deck>
+	<preset />
+  </mission>
+
+</missions>

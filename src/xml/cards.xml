@@ -1,0 +1,45 @@
+﻿<cards version="0.0.1">
+
+  <card id="1" 
+    name="张角" 
+	type="Commander"
+	package="Original"
+	rarity="Special"
+	faction="Qun"
+	hp="12"
+	att=""
+	mp="4"
+	image=""
+    >
+	<skill id="1" faction="Shu" target="Select" cost="0" effect="1" last="1">
+  </card>
+	
+  <card id="2" 
+    name="黄巾士兵" 
+	type="Army"
+	package="Original"
+	rarity="Common"
+	faction="Qun"
+	hp="1"
+	att="1"
+	mp="1"
+	image=""
+    >
+  </card>
+
+  <card id="3" 
+    name="黄巾精兵" 
+	type="Army"
+	package="Original"
+	rarity="Common"
+	faction="Qun"
+	hp="2"
+	att="1"
+	mp="1"
+	image=""
+    >
+  </card>
+
+
+
+</buffs>
