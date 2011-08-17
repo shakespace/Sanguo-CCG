@@ -31,7 +31,8 @@ Studio Members
 
 * Philip Xu
 * Eric Gan
-* Porter Wang
+* Liyang Yu
+* Cherry Yu
 * Elena Liu
 * Jolin Zhang
 
